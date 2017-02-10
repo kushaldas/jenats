@@ -1,0 +1,2 @@
+HOSTCOMMAND: ./onevm.py
+HOSTTEST: ./runsetup.sh
